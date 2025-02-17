@@ -1,18 +1,12 @@
 {
-  "name": "framework-stm32cubewb",
-  "version": "1.5.1",
-  "description": "STM32CubeWB MCU Package",
+  "description": "STM32Cube is a set of tools and embedded software bricks available free of charge to enable fast and easy development on the STM32 platform (STM32CubeWB MCU Firmware Package)",
   "keywords": [
     "framework",
+    "hal",
     "stm32",
-    "stm32cubewb"
+    "st"
   ],
-  "homepage": "https://github.com/scurid-inc/STM32CubeWB",
-  "system": [
-    "linux_x86_64",
-    "linux_armv7l",
-    "windows_x86",
-    "darwin_x86_64",
-    "darwin_arm64"
-  ]
+  "name": "framework-stm32cubewb",
+  "version": "1.21.0",
+  "homepage": "https://github.com/STMicroelectronics/STM32CubeWB"
 }
