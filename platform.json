@@ -1,6 +1,6 @@
 {
   "name": "framework-stm32cubewb",
-  "version": "1.0.0",  // Replace with your version
+  "version": "1.5.1",
   "description": "STM32CubeWB MCU Package",
   "keywords": [
     "framework",
