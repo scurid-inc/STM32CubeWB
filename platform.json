@@ -1,0 +1,18 @@
+{
+  "name": "framework-stm32cubewb",
+  "version": "1.0.0",  // Replace with your version
+  "description": "STM32CubeWB MCU Package",
+  "keywords": [
+    "framework",
+    "stm32",
+    "stm32cubewb"
+  ],
+  "homepage": "https://github.com/scurid-inc/STM32CubeWB",
+  "system": [
+    "linux_x86_64",
+    "linux_armv7l",
+    "windows_x86",
+    "darwin_x86_64",
+    "darwin_arm64"
+  ]
+}
